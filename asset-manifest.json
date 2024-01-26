@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "./static/css/main.e209cfcf.chunk.css",
-    "main.js": "./static/js/main.d7ca675e.chunk.js",
-    "main.js.map": "./static/js/main.d7ca675e.chunk.js.map",
+    "main.css": "./static/css/main.a404c932.chunk.css",
+    "main.js": "./static/js/main.07ab6c05.chunk.js",
+    "main.js.map": "./static/js/main.07ab6c05.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/css/2.ed1298f3.chunk.css": "./static/css/2.ed1298f3.chunk.css",
-    "static/js/2.7fdea10e.chunk.js": "./static/js/2.7fdea10e.chunk.js",
-    "static/js/2.7fdea10e.chunk.js.map": "./static/js/2.7fdea10e.chunk.js.map",
+    "static/js/2.df1634c6.chunk.js": "./static/js/2.df1634c6.chunk.js",
+    "static/js/2.df1634c6.chunk.js.map": "./static/js/2.df1634c6.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.ed1298f3.chunk.css.map": "./static/css/2.ed1298f3.chunk.css.map",
-    "static/css/main.e209cfcf.chunk.css.map": "./static/css/main.e209cfcf.chunk.css.map",
-    "static/js/2.7fdea10e.chunk.js.LICENSE.txt": "./static/js/2.7fdea10e.chunk.js.LICENSE.txt",
+    "static/css/main.a404c932.chunk.css.map": "./static/css/main.a404c932.chunk.css.map",
+    "static/js/2.df1634c6.chunk.js.LICENSE.txt": "./static/js/2.df1634c6.chunk.js.LICENSE.txt",
     "static/media/Header.scss": "./static/media/Logo.13ce922e.svg",
-    "static/media/FavouritesButton.scss": "./static/media/Heart.dbd19c03.svg",
+    "static/media/CartPage.scss": "./static/media/arrow-right.c0d01b22.svg",
+    "static/media/ProductDetailsPage.scss": "./static/media/Heart.dbd19c03.svg",
+    "static/media/ProductCard.scss": "./static/media/HeartRed.d554a185.svg",
     "static/media/BreadCrumbs.scss": "./static/media/arrow-left.70f42d77.svg",
     "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
-    "static/media/Pagination.scss": "./static/media/arrow-right.c0d01b22.svg",
-    "static/media/ProductList.scss": "./static/media/arrow_down.98c9dd6d.svg",
+    "static/media/Search.eb670dd9.svg": "./static/media/Search.eb670dd9.svg",
+    "static/media/ProductList.scss": "./static/media/empty-result_shot.6ded942c.png",
     "static/media/Footer.scss": "./static/media/arrow_up.1ea6958a.svg",
     "static/media/ShopByCategory.scss": "./static/media/category-tablets.e7126541.png"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/css/2.ed1298f3.chunk.css",
-    "static/js/2.7fdea10e.chunk.js",
-    "static/css/main.e209cfcf.chunk.css",
-    "static/js/main.d7ca675e.chunk.js"
+    "static/js/2.df1634c6.chunk.js",
+    "static/css/main.a404c932.chunk.css",
+    "static/js/main.07ab6c05.chunk.js"
   ]
 }
